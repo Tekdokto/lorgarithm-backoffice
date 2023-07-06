@@ -13,7 +13,7 @@
   "dependencies": {
     "@auth0/auth0-react": "1.10.1",
     "@aws-amplify/auth": "4.5.3",
-    "@aws-amplify/ui-react": "2.16.1",
+    "@aws-amplify/ui-react": "5.0.4",
     "@casl/ability": "5.4.3",
     "@casl/react": "2.3.0",
     "@emotion/cache": "11.6.0",
@@ -34,7 +34,7 @@
     "@popperjs/core": "2.11.2",
     "@reduxjs/toolkit": "1.8.1",
     "apexcharts-clevision": "3.28.5",
-    "aws-amplify": "4.3.22",
+    "aws-amplify": "5.3.3",
     "axios": "0.27.2",
     "axios-mock-adapter": "1.20.0",
     "chart.js": "3.7.1",
